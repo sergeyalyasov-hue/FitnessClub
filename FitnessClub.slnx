@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="FitnessClub.Api/FitnessClub.Api.csproj" Id="4a1d083e-76ba-43db-884e-f88eb7bf1abb" />
   <Project Path="FitnessClub/FitnessClub.csproj" />
 </Solution>
